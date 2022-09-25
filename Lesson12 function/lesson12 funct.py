@@ -101,13 +101,14 @@
 #      def inner_func2(y):
 #           return y**2
 #      return inner_func(a)+inner_func2(b)
-# print(func1(4,5))
+# print(func1(2,3))
 
 
 
      #запись в одно строчку
 # def summa (a,b): return a+b
 # print(summa(1,5))
+
 
          #Задача №2
 #Написать функцию is_year_leap, принимающую 1 аргумент - год
@@ -186,3 +187,5 @@
 #     return s/10
 # print(mass)
 # print(average(mass))
+
+print("hellow")
